@@ -4,7 +4,7 @@
 
 ## Provided Files
 - `CSE8AImage.py` (Image processing library - **DO NOT EDIT**)
-- Sample test images: `beach.jpg`, `cat_sand_dune.jpg`, and others (optional, for testing your functions)
+- Sample test images: `beach.jpg` and `cat_sand_dune.jpg` --- for testing your functions)
 
 ## File(s) to Submit
 - `brighten.py`
