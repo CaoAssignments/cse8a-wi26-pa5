@@ -27,13 +27,26 @@ By the end of this lab, you will be able to:
 
 ## Part 0. Environment Setup
 
-### Step 1: Download CSE8AImage.py
+### Step 1: Download Starter Files
 
 **IMPORTANT: Do this first!**
 
-Download the `CSE8AImage.py` file from Canvas/GitHub and save it in the folder where you will be working on this lab. This file must be in the **same folder** as your Python files for this lab to work.
+You need to download the `CSE8AImage.py` file and the sample test images. You have two options:
 
----
+**Option 1: Download from GitHub (Recommended)**
+
+1. Click the green "Code" button
+2. Select "Download ZIP"
+3. Extract the ZIP file to your working folder
+4. You should now have `CSE8AImage.py` and the sample images in your folder
+
+**Option 2: Download from Canvas**
+
+1. Go to Canvas and find the PA5 assignment
+2. Download `CSE8AImage.py` and save it in your working folder
+3. Download the sample test images and save them in the same folder
+
+Make sure `CSE8AImage.py` is in the **same folder** as your Python files for this assignment to work.
 
 **If you have already followed the setup slides (slides 23-24 on Mac, or slides 27-28 on Windows), you can skip to Part 1!**
 
