@@ -589,11 +589,11 @@ print("Test 4: " + str(result4))
 
 #### Step 4: Test with a Real Image (Optional)
 
-If you have time, try it with a real image inside a test file (e.g. `test_lab_5.py`). Download `beach.jpg` and `cat_sand_dune.jpg` from the GitHub link.
+If you have time, try testing your function with a real image! Download `beach.jpg` and `cat_sand_dune.jpg` from the GitHub link.
+
+Try including the following code below it and running the file:
 
 ```python
-from pa5_lab import darken_image
-from CSE8AImage import *
 
 # Load an image
 my_img = load_img("beach.jpg")  # Use any image file
