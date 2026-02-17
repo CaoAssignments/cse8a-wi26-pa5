@@ -393,11 +393,9 @@ Here are **some** examples of how your `brighten_image` function should behave:
 
 ### Part 2.4 Testing Your Function
 
-Create a new file (e.g., `test_brighten.py`) in the same folder:
+To further test your function, try including the following code below it and running the file:
 
 ```python
-from brighten import brighten_image
-from CSE8AImage import *
 
 # Test with a simple 2D list
 test_img = [[(100, 100, 100)]]
@@ -596,11 +594,9 @@ Here are **some** examples of how your `grayscale` function should behave:
 
 ### Part 3.4 Testing Your Function
 
-Create a new file (e.g., `test_grayscale.py`) in the same folder:
+To further test your function, try including the following code below it and running the file:
 
 ```python
-from grayscale import grayscale
-from CSE8AImage import *
 
 # Test with a simple 2D list
 test_img = [[(100, 80, 60)]]
@@ -834,11 +830,9 @@ The pattern is **predictable** based on position, not random!
 
 ### Part 4.5 Testing Your Function
 
-Create a new file (e.g., `test_add_noise.py`) in the same folder:
+To further test your function, try including the following code below it and running the file:
 
 ```python
-from add_noise import add_noise
-from CSE8AImage import *
 
 # Test with a simple 2D list
 test_img = [[(100, 100, 100), (100, 100, 100)],
