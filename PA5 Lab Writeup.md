@@ -192,7 +192,7 @@ Requirement already satisfied: pillow in ...
 To verify your setup is working correctly:
 
 1. Open **IDLE**
-2. Create a new Python file (e.g. `test_lab_5.py`) in the **same folder** where you saved `CSE8AImage.py`
+2. Create a new Python file (e.g. `pa5_lab.py`) in the **same folder** where you saved `CSE8AImage.py`
 3. Type the following code:
 
 ```python
@@ -511,7 +511,7 @@ Write a function `darken_image(img, percentage)` that takes an image and a perce
 
 #### Step 1: Define Your Function
 
-Create a file called `pa5_lab.py` and write the function definition:
+Create a file called `pa5_lab.py` (if you haven't done this already) and write the function definition:
 
 ```python
 from CSE8AImage import *
