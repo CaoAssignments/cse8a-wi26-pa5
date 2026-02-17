@@ -237,12 +237,12 @@ This represents a 2x2 image with 2 rows and 2 columns:
 ```
 Visual representation with indices:
 
-           Column 0         Column 1
-         +-------------+  +-------------+
-Row 0    | image[0][0] |  | image[0][1] |
-         +-------------+  +-------------+
-Row 1    | image[1][0] |  | image[1][1] |
-         +-------------+  +-------------+
+               Column index 0    Column index 1
+               +-------------+  +-------------+
+Row index 0    | image[0][0] |  | image[0][1] |
+               +-------------+  +-------------+
+Row index 1    | image[1][0] |  | image[1][1] |
+               +-------------+  +-------------+
 
 Pixel values:
 image[0][0] = (255, 0, 0)   --> RED
